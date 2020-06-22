@@ -7,7 +7,7 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 plt.style.use('ggplot')
 
-df = pd.read_csv("C:/Users/Bharat/Desktop/Phd paper/PHD/papers/Paper2/Dataset/creditcard.csv")
+df = pd.read_csv("........./creditcard.csv")
 
 #shape
 print('This data frame has {} rows and {} columns.'.format(df.shape[0], df.shape[1]))
